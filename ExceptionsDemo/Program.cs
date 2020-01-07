@@ -22,9 +22,10 @@ namespace ExceptionsDemo
             Serenity.AddCrew("Shepherd", "Derrial Book");
             Serenity.AddCrew("Medic", "Simon Tam");
             Serenity.AddCrew("Crew", "River Tam");
+            Serenity.AddCrew("Crew", "Sparsh Rawlani");// for testing
 
             try { 
-            Serenity.AddCrew("Crew", "Sparsh Rawlani");// for testing
+            
 
             if(Serenity.CurrentCrewSize() > Serenity.CrewCapacity)
                 {
