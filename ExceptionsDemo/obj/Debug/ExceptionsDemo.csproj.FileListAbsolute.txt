@@ -1,0 +1,6 @@
+F:\Source\cs371\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.exe.config
+F:\Source\cs371\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.exe
+F:\Source\cs371\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.pdb
+F:\Source\cs371\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.csprojAssemblyReference.cache
+F:\Source\cs371\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.exe
+F:\Source\cs371\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.pdb
