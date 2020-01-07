@@ -105,6 +105,7 @@ namespace ExceptionsDemo
             foreach (KeyValuePair<string, List<string>> kvp in roster)
             {
                 count += kvp.Value.Count;
+                
             }
             return count;
         }

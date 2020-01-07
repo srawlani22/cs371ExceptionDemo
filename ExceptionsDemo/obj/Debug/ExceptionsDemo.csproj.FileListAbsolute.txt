@@ -4,3 +4,10 @@ F:\Source\cs371\ExceptionsDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.pdb
 F:\Source\cs371\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.csprojAssemblyReference.cache
 F:\Source\cs371\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.exe
 F:\Source\cs371\ExceptionsDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.pdb
+C:\Users\srawlani22\Desktop\cs371ExceptionDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.exe.config
+C:\Users\srawlani22\Desktop\cs371ExceptionDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.exe
+C:\Users\srawlani22\Desktop\cs371ExceptionDemo\ExceptionsDemo\bin\Debug\ExceptionsDemo.pdb
+C:\Users\srawlani22\Desktop\cs371ExceptionDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.csprojAssemblyReference.cache
+C:\Users\srawlani22\Desktop\cs371ExceptionDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\srawlani22\Desktop\cs371ExceptionDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.exe
+C:\Users\srawlani22\Desktop\cs371ExceptionDemo\ExceptionsDemo\obj\Debug\ExceptionsDemo.pdb

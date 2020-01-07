@@ -11,6 +11,8 @@ namespace ExceptionsDemo
         static void Main(string[] args)
         {
             Starship Serenity = new Starship("Serenity", "Firefly", "404-E-132-4FE274A", 9);
+
+           
             Serenity.AddCrew("Captain", "Malcolm Reynolds");
             Serenity.AddCrew("FirstMate", "Zoe Washburne");
             Serenity.AddCrew("Pilot", "Hoban Washburne");
@@ -21,6 +23,22 @@ namespace ExceptionsDemo
             Serenity.AddCrew("Medic", "Simon Tam");
             Serenity.AddCrew("Crew", "River Tam");
 
+            try { 
+            Serenity.AddCrew("Crew", "Sparsh Rawlani");// for testing
+
+            if(Serenity.CurrentCrewSize() > Serenity.CrewCapacity)
+                {
+                    throw new ExtraCrewException("Too many people");
+                }
+           
+                
+            }
+            catch (ExtraCrewException e)
+            {
+                Console.WriteLine(e.Message);
+                return;
+            }
+           
             Serenity.Print();
             Serenity.PrintRoster();
             Console.ReadLine();
